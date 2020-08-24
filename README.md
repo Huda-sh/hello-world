@@ -1,2 +1,2 @@
 # hello-world
-IDK what I'm doing!
+Hi! I'm Huda, I just graduated high school and I'm planing on studying Software Engineering.
